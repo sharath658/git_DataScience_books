@@ -1,2 +1,2 @@
-# git_DataScience_books
-Books and repository related to Data Science
+# Just DataScience
+Concepts,kernels and repository related to Data Science
